@@ -13,12 +13,16 @@ Here's a glimpse into my journey:
 
 *OVERVIEW:*  
 
-- Bus Reservation System: Allows users to book bus tickets, check schedules, and make payments online. It helps manage seat availability and cancellations for both passengers and bus 
+- Bus Reservation System: Allows users to book bus tickets, check schedules, and make payments online. It helps manage seat availability and 
+  cancellations for both passengers and bus 
   operators.
--Train Reservation System: Enables users to book train tickets, view real-time schedules, and track seat availability. It also offers secure payment options and cancellation features.
--Pathfinding Management System: Suggests the best routes across various transportation modes (bus, train, taxi), integrating real-time traffic and weather data for optimized travel.
--Residence Management System: Helps users find, book, and manage both short-term (hotels) and long-term (apartments) accommodations, with features for booking, payments, and lease 
- management.
+- Train Reservation System: Enables users to book train tickets, view real-time schedules, and track seat availability. It also offers secure 
+  payment options and cancellation features.
+- Pathfinding Management System: Suggests the best routes across various transportation modes (bus, train, taxi), integrating real-time traffic 
+  and weather data for optimized travel.
+- Residence Management System: Helps users find, book, and manage both short-term (hotels) and long-term (apartments) accommodations, with 
+  features for booking, payments, and lease 
+  management.
 
 *Technical Stack:*  
 
@@ -44,8 +48,8 @@ Here's a glimpse into my journey:
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/iram-mulla-070194345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [GitHub](https://github.com/I-r-am/portfolioo.github.io)
+- [LinkedIn](https://www.linkedin.com/in/iram-mulla-070194345utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Highlights
 
@@ -60,7 +64,7 @@ Here's a glimpse into my journey:
 - *Course Code:* 24ECAP202  
 - *Name:* Iram Mulla 
 - *SRN:* 02FE24BCI402  
-- *Course Instructor:* Priyanka Gavade  
+- *Course Instructor:* Dr Priyanka Gavade  
 - *University:* KLE TECHNOLOGICAL UNIVERSITY
 - *Topic:City Connectivity
 
