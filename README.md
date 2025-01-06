@@ -49,7 +49,7 @@ Here's a glimpse into my journey:
 ## 🌐 *Find Me Online*
 
 - [GitHub](https://github.com/I-r-am/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/iram-mulla-070194345utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/iram-mulla-070194345utm/)
 
 ## Portfolio Highlights
 
